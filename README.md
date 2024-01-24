@@ -6,6 +6,8 @@ My name is George Lawton, and I am pursuing a computer science degree at Northea
 
 Outside of tech, I push myself to develop new skills and like to attempt a plethora of different things. My current hobbies include skiing, running, putting together keyboards, and the occasional video game. 
 
+Additionally, any projects on my resume may be viewed on request only.
+
 ## Languages
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
