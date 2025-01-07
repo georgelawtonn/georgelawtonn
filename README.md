@@ -11,7 +11,7 @@ I'm a Computer Science student at Northeastern University driven by the goal of 
   
 - **Software & Systems Developer Co-op** @ Snell Library Digital Repository Service Group (Jun - Dec 2024)
   - Built a statistics dashboard using d3.js for tracking repository usage metrics
-  - Improved code coverage by 40% through comprehensive testing implementation
+  - Improved code coverage by 40% up to 90% through comprehensive testing implementation
   - Led migration from v1.0 to v2.0, optimizing and reworking existing core workflows
   - Developed Docker environments for research and preservation teams
   - Architected JupyterHub deployment on Amazon EKS with auto-scaling
